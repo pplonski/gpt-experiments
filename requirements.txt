@@ -1,0 +1,10 @@
+mercury
+requests
+openai
+tiktoken
+html2text
+python_dotenv
+pandas
+matplotlib
+scikit-learn
+
